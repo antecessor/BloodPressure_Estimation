@@ -5,6 +5,9 @@ You need to first run Main.m; This will generate featuers and run different regr
 <br/> For GMDH you need to save Data_ParameterBased; <br/>
 Then, you use example.m and load your saved feature to train GMDH.
 
+## Hardware:
+Raspberry folder contains code that will run on raspberry to estimate BP on embedded device.
+
 
 ## Reference:
 Mohebbian, M.R., Dinh, A., Wahid, K. and Alam, M.S., 2020. Blind, cuff-less, calibration-free and continuous blood pressure estimation using optimized inductive group method of data handling. Biomedical Signal Processing and Control, 57, p.101682.
